@@ -1,4 +1,4 @@
-FROM python
+FROM arm64v8/python
 
 ENV LIBRARY_PATH=/lib:/usr/lib
 
