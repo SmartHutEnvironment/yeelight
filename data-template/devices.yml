@@ -1,0 +1,10 @@
+devices:
+  - ip: "192.168.1.101"
+    duration: 500
+    topic: "zigbee2mqtt/room/device1_name"
+    type: Color
+  - ip: "192.168.1.102"
+    duration: 500
+    topic: "zigbee2mqtt/room/device2_name"
+    type: Color
+    
